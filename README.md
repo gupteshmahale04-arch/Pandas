@@ -172,7 +172,7 @@ pd.read_excel('file.xlsx')
 
 ## 7. Summary
 
-* **Pandas** acts as the industry standard for starting high-octane data preprocessing pipelines.
+* **Pandas** acts  as the industry standard for starting high-octane data preprocessing pipelines.
 * Explored basic building block architectures, scaling from **1D Series** arrays up to complex **2D DataFrames**.
 * Mastered multiple data synthesis pipelines utilizing native dictionaries, lists, arrays, and NumPy generation workflows.
 * Introduced targeting mechanisms to query row records and intersection parameters instantly using `.loc`.
