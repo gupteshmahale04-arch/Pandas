@@ -1,7 +1,7 @@
 
 ---
 
-# 🐼 Pandas - Class 1: Introduction & Setup
+# 🐼 Pandas - Class 1: Introduction & Setup  
 
 Welcome to the structured notes repository for **Pandas Class 1**. This document serves as a comprehensive, beginner-friendly guide covering core multi-dimensional array layouts, fundamental Pandas data structures, data creation pipelines, and localized element selection.
 
