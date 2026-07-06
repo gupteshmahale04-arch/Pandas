@@ -76,7 +76,7 @@ Pandas architecture organizes data elements cleanly by splitting dimensional str
 A 1D Series can be instantiated out of core Python lists or dictionaries while optionally attaching custom row indicator keys.
 
 ```python
-# Instantiating a 1D Series with player names as row labels
+# Instantiating a 1D  Series with player names as row labels
 marks = pd.Series([30, 40, 50, 60, 70],
                   index=['Ronaldo', 'Messi', 'Virat', 'Dhoni', 'Mbappe'])
 print(marks)
@@ -169,7 +169,7 @@ print(df.loc[1, 'Name'])  # Returns: 'Bob'[cite: 24]
 
 ### `.iloc` — Integer-Based Coordinate Indexer
 
-* **Real-World Analogy:** Index-only floor coordinates. Bypasses text labels completely, pulling items using standard sequential integer counting windows `[start:stop]`.
+* **Real-World Analogy:** Index-only floor coordinates.  Bypasses text labels completely, pulling items using standard sequential integer counting windows `[start:stop]`.
 
 
 
@@ -183,7 +183,7 @@ print(df.iloc[0:2, 0:2])  # Returns a small sliced top quadrant[cite: 20, 24]
 
 ## 7. The Data Cleaning Engine
 
-Real-world datasets arrive messy—riddled with missing fields, data type collisions, typos, and duplicate rows.
+Real-world datasets arrive messy—riddled with missing fields, data type collisions,typos, and duplicate rows.
 
 ```python
 # Handling Missing Values (Theater Seat Reservations)
