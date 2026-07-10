@@ -1,7 +1,7 @@
 
 
 
-# 🐼 Pandas - Complete Mastery: From Data Frames to Analytics Pipeline  
+# 🐼 Pandas - Complete Mastery: From Data   Frames to Analytics Pipeline  
 
 Welcome to the structured notes and assignments repository for the **Pandas** series[cite: 22, 24, 25, 26, 28]. This document serves as a comprehensive, beginner-friendly guide covering core tabular structures, data scrubbing mechanics, conditional queries, structural connections, relational merges, and advanced time series resampling pipelines[cite: 22, 24, 25, 26, 28, 30, 32].
 
